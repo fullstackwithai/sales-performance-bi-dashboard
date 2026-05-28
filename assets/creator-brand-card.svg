@@ -1,0 +1,87 @@
+<svg width="1280" height="760" viewBox="0 0 1280 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="760" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#030712"/>
+      <stop offset="0.45" stop-color="#070A12"/>
+      <stop offset="1" stop-color="#120414"/>
+    </linearGradient>
+    <linearGradient id="pink" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#FF7AB6"/>
+      <stop offset="0.45" stop-color="#FF2F92"/>
+      <stop offset="1" stop-color="#D80A64"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop stop-color="#FF2F92" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#FF2F92" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="20" flood-color="#000000" flood-opacity="0.45"/>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="760" rx="28" fill="url(#bg)"/>
+  <circle cx="638" cy="66" r="120" fill="url(#glow)" opacity="0.28"/>
+  <circle cx="640" cy="710" r="140" fill="url(#glow)" opacity="0.25"/>
+  <path d="M70 72H1210" stroke="#293241" stroke-width="1"/>
+  <path d="M520 72H760" stroke="url(#pink)" stroke-width="2"/>
+  <circle cx="640" cy="72" r="4" fill="#FF4FA3"/>
+
+  <g transform="translate(38 30)">
+    <rect x="0" y="0" width="46" height="46" rx="10" fill="#120814" stroke="#FF2F92"/>
+    <path d="M23 11L27 20L36 23L27 27L23 36L19 27L10 23L19 20L23 11Z" stroke="#FF4FA3" stroke-width="2"/>
+    <text x="64" y="31" fill="#FFFFFF" font-family="Georgia, 'Times New Roman', serif" font-size="28" font-weight="700">Creator &amp; Brand</text>
+  </g>
+
+  <text x="640" y="155" text-anchor="middle" fill="#FFFFFF" font-family="Georgia, 'Times New Roman', serif" font-size="52" font-weight="700">Built by <tspan fill="#FF4FA3">Arsim Shefkiu</tspan> under <tspan fill="#FF4FA3">FullStackWithAI</tspan></text>
+  <text x="640" y="202" text-anchor="middle" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="600">Full-stack developer  •  AI-assisted builder  •  Data analytics / BI portfolio creator</text>
+
+  <g filter="url(#softShadow)">
+    <rect x="48" y="238" width="585" height="350" rx="16" fill="#080C13" stroke="#4B5563"/>
+    <rect x="48" y="238" width="585" height="350" rx="16" fill="url(#glow)" opacity="0.10"/>
+    <circle cx="125" cy="295" r="38" fill="#140817" stroke="#FF2F92" stroke-width="2"/>
+    <path d="M125 276V295L140 286M125 295L111 309M125 295L138 310M101 295C101 282 112 271 125 271C138 271 149 282 149 295C149 308 138 319 125 319C112 319 101 308 101 295Z" stroke="#FF4FA3" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="190" y="302" fill="#FFFFFF" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="700">Professional Focus</text>
+    <path d="M190 330H235" stroke="#FF2F92" stroke-width="3"/><circle cx="242" cy="330" r="3" fill="#FF2F92"/>
+    <text x="126" y="382" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="500">I build polished, business-focused digital products that</text>
+    <text x="126" y="416" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="500">combine clean frontend execution, practical analytics</text>
+    <text x="126" y="450" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="500">thinking, automation, and AI-assisted workflows.</text>
+    <text x="126" y="510" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="500">This project is part of a premium portfolio designed to</text>
+    <text x="126" y="544" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="500">show recruiter-ready ability across <tspan fill="#FF4FA3" font-weight="800">Data Analytics</tspan>,</text>
+    <text x="126" y="578" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="500"><tspan fill="#FF4FA3" font-weight="800">Business Intelligence</tspan>, dashboard design, and <tspan fill="#FF4FA3" font-weight="800">full-stack</tspan></text>
+    <text x="126" y="612" fill="#FF4FA3" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="800">product thinking.</text>
+  </g>
+
+  <g filter="url(#softShadow)">
+    <rect x="647" y="238" width="585" height="350" rx="16" fill="#080C13" stroke="#4B5563"/>
+    <rect x="647" y="238" width="585" height="350" rx="16" fill="url(#glow)" opacity="0.10"/>
+    <circle cx="724" cy="295" r="38" fill="#140817" stroke="#FF2F92" stroke-width="2"/>
+    <path d="M706 309L742 276L730 315L721 302L706 309Z" stroke="#FF4FA3" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="789" y="302" fill="#FFFFFF" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="700">FullStackWithAI Positioning</text>
+    <path d="M789 330H834" stroke="#FF2F92" stroke-width="3"/><circle cx="841" cy="330" r="3" fill="#FF2F92"/>
+    <text x="697" y="382" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="500">FullStackWithAI represents modern portfolio work built</text>
+    <text x="697" y="416" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="500">around real-world business problems, clean user</text>
+    <text x="697" y="450" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="500">experience, analytics clarity, and AI-enhanced</text>
+    <text x="697" y="484" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="500">development speed.</text>
+    <text x="697" y="544" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="500">The goal is to create projects that look professional,</text>
+    <text x="697" y="578" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="500">explain business value clearly, and demonstrate</text>
+    <text x="697" y="612" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="500">practical skills beyond basic code samples.</text>
+  </g>
+
+  <g filter="url(#softShadow)">
+    <rect x="28" y="624" width="1224" height="112" rx="18" fill="#080B12" stroke="#FF2F92"/>
+    <circle cx="118" cy="680" r="54" fill="#130814" stroke="#FF2F92" stroke-width="2"/>
+    <text x="118" y="707" text-anchor="middle" fill="url(#pink)" font-family="Georgia, 'Times New Roman', serif" font-size="78" font-weight="900">A</text>
+    <text x="218" y="672" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="25" font-weight="900">FULLSTACK<tspan fill="#FF4FA3">WITHAI</tspan></text>
+    <text x="218" y="704" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="19" font-weight="600">by Arsim Shefkiu</text>
+    <path d="M495 646V714M680 646V714M865 646V714" stroke="#515866"/>
+    <text x="565" y="666" text-anchor="middle" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="900">Website</text>
+    <text x="565" y="699" text-anchor="middle" fill="#FF4FA3" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="700">www.designhubmk.com</text>
+    <text x="752" y="666" text-anchor="middle" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="900">Email</text>
+    <text x="752" y="699" text-anchor="middle" fill="#FF4FA3" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="700">arsim@designhubmk.com</text>
+    <text x="938" y="666" text-anchor="middle" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="900">GitHub</text>
+    <text x="938" y="699" text-anchor="middle" fill="#FF4FA3" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="700">fullstackwithai</text>
+    <path d="M1022 624H1252V736H1052L1022 624Z" fill="#2A0718" stroke="#FF2F92"/>
+    <text x="1120" y="675" fill="#FFFFFF" font-family="Georgia, 'Times New Roman', serif" font-size="28" font-weight="700">Turning Complexity</text>
+    <text x="1120" y="710" fill="#FFFFFF" font-family="Georgia, 'Times New Roman', serif" font-size="28" font-weight="700">Into <tspan fill="#FF4FA3">Clarity.</tspan></text>
+  </g>
+</svg>
