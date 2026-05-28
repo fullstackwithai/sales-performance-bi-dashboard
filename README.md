@@ -71,7 +71,8 @@ The goal is not just to show code. The goal is to show **business thinking**: as
 ```text
 sales-performance-bi-dashboard/
 ├── assets/
-│   └── readme-banner.svg
+│   ├── readme-banner.svg
+│   └── creator-brand-card.svg
 ├── data/
 │   └── sample-sales-data.csv
 ├── sql/
@@ -117,6 +118,7 @@ You can also open `dashboard/index.html` directly in your browser.
 | `dashboard/styles.css` | Premium dashboard styling |
 | `dashboard/app.js` | Simple chart/bar rendering logic |
 | `assets/readme-banner.svg` | Custom visual README banner |
+| `assets/creator-brand-card.svg` | Approved premium Creator & Brand card |
 
 ---
 
@@ -146,40 +148,12 @@ This project is built to communicate practical DA/BI ability quickly:
 
 ## Creator & Brand
 
-<div align="center">
-
-### Built by **Arsim Shefkiu** under **FullStackWithAI**
-
-**Full-stack developer · AI-assisted builder · Data analytics / BI portfolio creator**
-
-</div>
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>Professional Focus</h3>
-      <p>I build polished, business-focused digital products that combine clean frontend execution, practical analytics thinking, automation, and AI-assisted workflows.</p>
-      <p>This project is part of a premium portfolio designed to show recruiter-ready ability across <strong>Data Analytics</strong>, <strong>Business Intelligence</strong>, <strong>dashboard design</strong>, and <strong>full-stack product thinking</strong>.</p>
-    </td>
-    <td width="50%">
-      <h3>FullStackWithAI Positioning</h3>
-      <p><strong>FullStackWithAI</strong> represents modern portfolio work built around real-world business problems, clean user experience, analytics clarity, and AI-enhanced development speed.</p>
-      <p>The goal is to create projects that look professional, explain business value clearly, and demonstrate practical skills beyond basic code samples.</p>
-    </td>
-  </tr>
-</table>
-
 <p align="center">
-  <img alt="Data Analytics" src="https://img.shields.io/badge/Data%20Analytics-Executive%20Reporting-2563eb?style=flat-square" />
-  <img alt="Business Intelligence" src="https://img.shields.io/badge/Business%20Intelligence-KPI%20Dashboards-f59e0b?style=flat-square" />
-  <img alt="Full Stack" src="https://img.shields.io/badge/Full%20Stack-Product%20Thinking-0f172a?style=flat-square" />
-  <img alt="AI Assisted" src="https://img.shields.io/badge/AI--Assisted-Builder-16a34a?style=flat-square" />
+  <a href="https://www.designhubmk.com">
+    <img src="assets/creator-brand-card.svg" alt="Built by Arsim Shefkiu under FullStackWithAI — premium creator and brand card" width="100%" />
+  </a>
 </p>
 
 <p align="center">
-  <strong>Website:</strong> www.designhubmk.com · <strong>Email:</strong> arsim@designhubmk.com · <strong>GitHub:</strong> fullstackwithai
-</p>
-
-<p align="center">
-  <strong>FullStackWithAI</strong> · Premium dashboards · BI storytelling · SQL analysis · AI-powered product thinking
+  <a href="https://www.designhubmk.com"><strong>www.designhubmk.com</strong></a> · <a href="mailto:arsim@designhubmk.com"><strong>arsim@designhubmk.com</strong></a> · <a href="https://github.com/fullstackwithai"><strong>GitHub: fullstackwithai</strong></a>
 </p>
