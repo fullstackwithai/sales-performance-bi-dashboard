@@ -1,0 +1,49 @@
+<svg width="1280" height="420" viewBox="0 0 1280 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="0.5" stop-color="#172554"/>
+      <stop offset="1" stop-color="#1E3A8A"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#FDE68A"/>
+      <stop offset="1" stop-color="#F59E0B"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="24" flood-color="#020617" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="420" rx="34" fill="url(#bg)"/>
+  <circle cx="1080" cy="88" r="190" fill="#3B82F6" opacity="0.16"/>
+  <circle cx="94" cy="346" r="210" fill="#F59E0B" opacity="0.10"/>
+
+  <g opacity="0.2">
+    <path d="M720 330 C790 246 846 281 910 188 C990 72 1060 160 1152 80" stroke="#93C5FD" stroke-width="5" fill="none"/>
+    <path d="M705 346 H1160" stroke="#DBEAFE" stroke-width="2" opacity="0.3"/>
+    <path d="M705 288 H1160" stroke="#DBEAFE" stroke-width="2" opacity="0.18"/>
+    <path d="M705 230 H1160" stroke="#DBEAFE" stroke-width="2" opacity="0.18"/>
+    <path d="M705 172 H1160" stroke="#DBEAFE" stroke-width="2" opacity="0.18"/>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="720" y="122" width="94" height="210" rx="22" fill="#2563EB" opacity="0.9"/>
+    <rect x="842" y="82" width="94" height="250" rx="22" fill="#60A5FA" opacity="0.92"/>
+    <rect x="964" y="162" width="94" height="170" rx="22" fill="url(#gold)"/>
+    <rect x="1086" y="112" width="94" height="220" rx="22" fill="#38BDF8" opacity="0.9"/>
+  </g>
+
+  <text x="72" y="88" fill="#93C5FD" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="800" letter-spacing="5">FULLSTACKWITHAI · BI PORTFOLIO</text>
+  <text x="72" y="168" fill="white" font-family="Inter, Arial, sans-serif" font-size="62" font-weight="900" letter-spacing="-2">Sales Performance</text>
+  <text x="72" y="238" fill="white" font-family="Inter, Arial, sans-serif" font-size="62" font-weight="900" letter-spacing="-2">BI Dashboard</text>
+  <text x="72" y="292" fill="#CBD5E1" font-family="Inter, Arial, sans-serif" font-size="25" font-weight="500">Executive analytics · SQL insights · KPI reporting · dashboard preview</text>
+
+  <g>
+    <rect x="72" y="330" width="172" height="42" rx="21" fill="white" opacity="0.10"/>
+    <text x="96" y="358" fill="#FDE68A" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="800">Revenue KPIs</text>
+    <rect x="260" y="330" width="150" height="42" rx="21" fill="white" opacity="0.10"/>
+    <text x="285" y="358" fill="#BFDBFE" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="800">SQL Analysis</text>
+    <rect x="426" y="330" width="182" height="42" rx="21" fill="white" opacity="0.10"/>
+    <text x="451" y="358" fill="#BBF7D0" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="800">BI Storytelling</text>
+  </g>
+</svg>
