@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Sales Performance BI Dashboard</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <main class="dashboard-shell">
+    <section class="hero">
+      <p class="eyebrow">FullStackWithAI · Business Intelligence Portfolio</p>
+      <h1>Sales Performance BI Dashboard</h1>
+      <p class="hero-copy">Executive revenue intelligence across regions, product categories, customer segments, and sales channels.</p>
+    </section>
+
+    <section class="kpi-grid" aria-label="Key performance indicators">
+      <article class="card kpi-card">
+        <span>Total Revenue</span>
+        <strong>$87.6K</strong>
+        <small>Sample sales dataset</small>
+      </article>
+      <article class="card kpi-card">
+        <span>Gross Profit</span>
+        <strong>$49.4K</strong>
+        <small>Estimated from revenue minus cost</small>
+      </article>
+      <article class="card kpi-card">
+        <span>Top Region</span>
+        <strong>North</strong>
+        <small>Strong enterprise contribution</small>
+      </article>
+      <article class="card kpi-card">
+        <span>Top Category</span>
+        <strong>Software</strong>
+        <small>Recurring analytics and CRM sales</small>
+      </article>
+    </section>
+
+    <section class="content-grid">
+      <article class="card">
+        <div class="section-heading">
+          <h2>Revenue by Region</h2>
+          <p>Regional comparison based on sample sales records.</p>
+        </div>
+        <div class="bar-list" id="regionBars"></div>
+      </article>
+
+      <article class="card">
+        <div class="section-heading">
+          <h2>Category Mix</h2>
+          <p>Product category contribution to total revenue.</p>
+        </div>
+        <div class="bar-list" id="categoryBars"></div>
+      </article>
+    </section>
+
+    <section class="card insights-card">
+      <div class="section-heading">
+        <h2>Executive Insights</h2>
+        <p>Business recommendations created from the analysis workflow.</p>
+      </div>
+      <ul>
+        <li>Prioritize enterprise and mid-market customer segments.</li>
+        <li>Monitor regional performance monthly to detect growth concentration.</li>
+        <li>Track direct, partner, and online channels separately for better investment decisions.</li>
+        <li>Expand future dashboard filters by region, category, and customer segment.</li>
+      </ul>
+    </section>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
