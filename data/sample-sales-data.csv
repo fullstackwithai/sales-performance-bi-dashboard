@@ -1,0 +1,17 @@
+order_id,order_date,region,category,product,customer_segment,channel,units,unit_price,revenue,cost
+1001,2026-01-05,North,Software,Analytics Pro,Enterprise,Direct,4,1200,4800,2200
+1002,2026-01-09,West,Hardware,POS Terminal,SMB,Partner,7,450,3150,1750
+1003,2026-01-14,South,Services,Implementation Package,Enterprise,Direct,2,2500,5000,2100
+1004,2026-01-20,East,Software,CRM Starter,SMB,Online,12,299,3588,1200
+1005,2026-02-02,North,Software,Analytics Pro,Mid-Market,Direct,5,1200,6000,2750
+1006,2026-02-08,West,Services,Training Program,SMB,Online,9,399,3591,900
+1007,2026-02-15,South,Hardware,POS Terminal,Mid-Market,Partner,10,450,4500,2500
+1008,2026-02-22,East,Software,CRM Starter,Enterprise,Direct,18,299,5382,1800
+1009,2026-03-03,North,Services,Implementation Package,Enterprise,Direct,3,2500,7500,3150
+1010,2026-03-09,West,Software,Analytics Pro,Enterprise,Partner,6,1200,7200,3300
+1011,2026-03-18,South,Software,CRM Starter,SMB,Online,15,299,4485,1500
+1012,2026-03-26,East,Hardware,POS Terminal,Mid-Market,Partner,8,450,3600,2000
+1013,2026-04-04,North,Software,Analytics Pro,Enterprise,Direct,7,1200,8400,3850
+1014,2026-04-10,West,Services,Training Program,Mid-Market,Online,11,399,4389,1100
+1015,2026-04-17,South,Services,Implementation Package,Enterprise,Direct,4,2500,10000,4200
+1016,2026-04-27,East,Software,CRM Starter,SMB,Online,20,299,5980,2000
