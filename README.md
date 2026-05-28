@@ -12,7 +12,7 @@
   <img alt="Executive BI" src="https://img.shields.io/badge/Executive%20BI-Revenue%20Intelligence-0F172A?style=for-the-badge" />
   <img alt="SQL Analysis" src="https://img.shields.io/badge/SQL-Performance%20Analysis-2563EB?style=for-the-badge" />
   <img alt="Dashboard" src="https://img.shields.io/badge/Dashboard-HTML%20CSS%20JS-F59E0B?style=for-the-badge" />
-  <img alt="Brand" src="https://img.shields.io/badge/FullStackWithAI-Data%20to%20Decisions-16A34A?style=for-the-badge" />
+  <img alt="FullStackWithAI" src="https://img.shields.io/badge/FullStackWithAI-Data%20to%20Decisions-16A34A?style=for-the-badge" />
 </p>
 
 <p align="center">
@@ -23,11 +23,26 @@
 
 ---
 
+## Executive Theme
+
+> **Data to decisions. Revenue to insight. Dashboards to executive clarity.**
+
+This README is designed as a complete **Executive BI theme experience**. Every section supports the same product identity: a polished sales intelligence dashboard that turns raw sales activity into clear KPIs, business questions, SQL-backed analysis, and leadership-ready recommendations.
+
+| Theme Pillar | Direction |
+|---|---|
+| **Color Identity** | Dark executive navy, blue analytics accents, gold KPI emphasis |
+| **Visual Language** | KPI cards, revenue intelligence, structured reporting, dashboard clarity |
+| **Audience** | Hiring managers, CEOs, analytics leads, BI teams, full-stack product reviewers |
+| **Core Message** | This project connects business questions, SQL, dashboard design, and decision-making |
+
+---
+
 ## Executive Intelligence Snapshot
 
 This repository is built like a stakeholder-facing **Business Intelligence case study**, not a basic code sample. It takes sales records and turns them into a clear reporting experience with KPIs, SQL queries, executive insights, and a lightweight dashboard preview.
 
-The presentation is designed to show hiring managers, CEOs, and analytics leads that the work connects **data analysis, business context, dashboard design, and decision-making**.
+The presentation is designed to show that the work connects **data analysis, business context, dashboard design, and decision-making**.
 
 | Business Lens | What the Dashboard Communicates |
 |---|---|
@@ -75,6 +90,7 @@ A strong BI project starts with the questions leadership actually cares about:
 | **Dashboard Design** | Clean KPI cards, comparison bars, and insight-first presentation |
 | **Data Storytelling** | Clear connection between numbers, business meaning, and action |
 | **Frontend Execution** | Lightweight HTML/CSS/JS dashboard preview for visual presentation |
+| **Portfolio Strategy** | A theme-matched project page that speaks to recruiters and decision-makers |
 
 ---
 
@@ -102,8 +118,7 @@ You can also open `dashboard/index.html` directly in your browser.
 ```text
 sales-performance-bi-dashboard/
 ├── assets/
-│   ├── readme-banner.svg
-│   └── creator-brand-card.svg
+│   └── readme-banner.svg
 ├── data/
 │   └── sample-sales-data.csv
 ├── sql/
@@ -126,7 +141,6 @@ sales-performance-bi-dashboard/
 | `dashboard/styles.css` | Executive BI styling and layout |
 | `dashboard/app.js` | Simple data rendering for visual comparison bars |
 | `assets/readme-banner.svg` | Theme-matched README hero banner |
-| `assets/creator-brand-card.svg` | Premium Creator & Brand visual card |
 
 ---
 
@@ -140,6 +154,7 @@ This project demonstrates the kind of thinking expected in real analytics and BI
 - It includes a written insight layer, not only visuals.
 - It connects analytics with frontend presentation.
 - It shows the ability to turn data into a product-like reporting experience.
+- It presents the work with a cohesive theme instead of plain documentation.
 
 ---
 
@@ -165,6 +180,7 @@ This project demonstrates the kind of thinking expected in real analytics and BI
 | I build polished dashboards and analytics-driven products that turn raw business data into clear, decision-ready insight. | **FullStackWithAI** represents modern portfolio work built around real business problems, clean reporting structure, premium presentation, and AI-assisted product execution. |
 
 #### Why this matters
+
 This project is designed to show more than technical implementation. It demonstrates the ability to connect:
 
 - **business questions**
@@ -174,6 +190,7 @@ This project is designed to show more than technical implementation. It demonstr
 - **stakeholder-ready insight**
 
 #### Professional Positioning
+
 This repository is part of a premium portfolio built to communicate recruiter-ready and executive-ready value across:
 
 - **Data Analytics**
@@ -183,18 +200,13 @@ This repository is part of a premium portfolio built to communicate recruiter-re
 - **Business Storytelling**
 
 <p align="center">
-  <strong>Theme:</strong> Executive BI · Revenue Intelligence · SQL Analysis · KPI Dashboards
+  <strong>Theme:</strong> Executive BI · Revenue Intelligence · SQL Analysis · KPI Dashboards · Business Storytelling
 </p>
 
 <p align="center">
   <a href="https://www.designhubmk.com"><strong>www.designhubmk.com</strong></a> ·
   <strong>arsim@designhubmk.com</strong> ·
   <a href="https://github.com/fullstackwithai"><strong>GitHub: fullstackwithai</strong></a>
-</p>
-
-<p align="center">
-  <strong>FullStackWithAI</strong> — building premium dashboards and digital products that turn complexity into clarity.
-</p>
 </p>
 
 <p align="center">
