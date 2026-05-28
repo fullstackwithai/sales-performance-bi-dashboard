@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.designhubmk.com"><strong>Portfolio</strong></a> ·
+  <a href="https://www.designhubmk.com"><strong>www.designhubmk.com</strong></a> ·
   <strong>arsim@designhubmk.com</strong> ·
   <a href="https://github.com/fullstackwithai"><strong>GitHub: fullstackwithai</strong></a>
 </p>
