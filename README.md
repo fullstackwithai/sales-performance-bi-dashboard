@@ -177,5 +177,9 @@ This project is built to communicate practical DA/BI ability quickly:
 </p>
 
 <p align="center">
+  <strong>Website:</strong> www.designhubmk.com · <strong>Email:</strong> arsim@designhubmk.com · <strong>GitHub:</strong> fullstackwithai
+</p>
+
+<p align="center">
   <strong>FullStackWithAI</strong> · Premium dashboards · BI storytelling · SQL analysis · AI-powered product thinking
 </p>
