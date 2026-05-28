@@ -156,18 +156,45 @@ This project demonstrates the kind of thinking expected in real analytics and BI
 
 ## Creator & Brand
 
+### Built by **Arsim Shefkiu** under **FullStackWithAI**
+
+> **Executive BI theme focused on revenue intelligence, KPI visibility, SQL analysis, and business storytelling.**
+
+| Creator Focus | Brand Positioning |
+|---|---|
+| I build polished dashboards and analytics-driven products that turn raw business data into clear, decision-ready insight. | **FullStackWithAI** represents modern portfolio work built around real business problems, clean reporting structure, premium presentation, and AI-assisted product execution. |
+
+#### Why this matters
+This project is designed to show more than technical implementation. It demonstrates the ability to connect:
+
+- **business questions**
+- **structured data**
+- **SQL analysis**
+- **dashboard presentation**
+- **stakeholder-ready insight**
+
+#### Professional Positioning
+This repository is part of a premium portfolio built to communicate recruiter-ready and executive-ready value across:
+
+- **Data Analytics**
+- **Business Intelligence**
+- **Revenue Reporting**
+- **KPI Dashboards**
+- **Business Storytelling**
+
 <p align="center">
-  <a href="https://www.designhubmk.com">
-    <img src="assets/creator-brand-card.svg" alt="Built by Arsim Shefkiu under FullStackWithAI — executive BI creator and brand card" width="100%" />
-  </a>
+  <strong>Theme:</strong> Executive BI · Revenue Intelligence · SQL Analysis · KPI Dashboards
 </p>
 
 <p align="center">
-  <strong>Executive BI Theme:</strong> Data Analytics · Revenue Intelligence · SQL Analysis · KPI Dashboards · Business Storytelling
+  <a href="https://www.designhubmk.com"><strong>www.designhubmk.com</strong></a> ·
+  <strong>arsim@designhubmk.com</strong> ·
+  <a href="https://github.com/fullstackwithai"><strong>GitHub: fullstackwithai</strong></a>
 </p>
 
 <p align="center">
-  <a href="https://www.designhubmk.com"><strong>www.designhubmk.com</strong></a> · <strong>arsim@designhubmk.com</strong> · <a href="https://github.com/fullstackwithai"><strong>GitHub: fullstackwithai</strong></a>
+  <strong>FullStackWithAI</strong> — building premium dashboards and digital products that turn complexity into clarity.
+</p>
 </p>
 
 <p align="center">
