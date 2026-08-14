@@ -1,31 +1,27 @@
+<div align="center">
+
+# SALES PERFORMANCE BI DASHBOARD
+
+### Executive Revenue Intelligence & Business Performance Analytics
+
+**Revenue visibility. Regional performance. Customer segmentation. Decision-ready insight.**
+
+[![Portfolio](https://img.shields.io/badge/portfolio-DesignHubMK-0A66C2?style=flat-square)](https://www.designhubmk.com)
+![Focus](https://img.shields.io/badge/focus-Executive%20BI-0F172A?style=flat-square)
+![Analytics](https://img.shields.io/badge/analytics-SQL%20%2B%20Dashboard-2563EB?style=flat-square)
+![Status](https://img.shields.io/badge/status-Portfolio%20Project-2E8B57?style=flat-square)
+
+**Data to decisions. Revenue to insight. Dashboards to executive clarity.**
+
+</div>
+
+---
+
 <p align="center">
   <img src="assets/readme-banner.svg" alt="Sales Performance BI Dashboard" width="100%" />
 </p>
 
-<h1 align="center">Sales Performance BI Dashboard</h1>
-
-<p align="center">
-  <strong>Executive BI dashboard for revenue intelligence, regional performance, product-category analysis, customer segmentation, and decision-ready sales insights.</strong>
-</p>
-
-<p align="center">
-  <img alt="Executive BI" src="https://img.shields.io/badge/Executive%20BI-Revenue%20Intelligence-0F172A?style=for-the-badge" />
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-Performance%20Analysis-2563EB?style=for-the-badge" />
-  <img alt="Dashboard" src="https://img.shields.io/badge/Dashboard-HTML%20CSS%20JS-F59E0B?style=for-the-badge" />
-  <img alt="FullStackWithAI" src="https://img.shields.io/badge/FullStackWithAI-Data%20to%20Decisions-16A34A?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <a href="https://www.designhubmk.com"><strong>www.designhubmk.com</strong></a> ·
-  <strong>arsim@designhubmk.com</strong> ·
-  <a href="https://github.com/fullstackwithai"><strong>GitHub: fullstackwithai</strong></a>
-</p>
-
----
-
 ## Executive BI Theme
-
-> **Data to decisions. Revenue to insight. Dashboards to executive clarity.**
 
 This repository is presented as a complete **Executive Business Intelligence** case study. The goal is to show how raw sales activity can become KPI visibility, SQL-backed analysis, dashboard presentation, and stakeholder-ready recommendations.
 
@@ -130,30 +126,31 @@ sales-performance-bi-dashboard/
 - It includes a written insight layer, not only visuals.
 - It connects analytics with frontend presentation.
 - It shows the ability to turn data into a product-like reporting experience.
-- It presents the work with a cohesive theme instead of plain documentation.
 
 ---
 
-## Creator & Brand
+## Author
 
-### Built by **Arsim Shefkiu** under **FullStackWithAI**
+**Arsim Shefkiu**  
+**AI Software Engineer · Full-Stack Developer · SaaS & Automation**
 
-> **Executive BI theme focused on revenue intelligence, KPI visibility, SQL analysis, and business storytelling.**
+Founder of **DesignHubMK**, building AI-powered software, automation systems, and full-stack digital products.
 
-| Creator Focus | Brand Positioning |
-|---|---|
-| I build polished dashboards and analytics-driven products that turn raw business data into clear, decision-ready insight. | **FullStackWithAI** represents modern portfolio work built around real business problems, clean reporting structure, premium presentation, and AI-assisted product execution. |
+[![DesignHubMK](https://img.shields.io/badge/DesignHubMK-Website-555555?logo=googlechrome&logoColor=white)](https://www.designhubmk.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%40designhub__mk-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/designhub_mk/)
+[![GitHub](https://img.shields.io/badge/GitHub-fullstackwithai-181717?logo=github&logoColor=white)](https://github.com/fullstackwithai)
 
-<p align="center">
-  <strong>Theme:</strong> Executive BI · Revenue Intelligence · SQL Analysis · KPI Dashboards · Business Storytelling
-</p>
+**Website:** https://www.designhubmk.com  
+**Instagram:** @designhub_mk
 
-<p align="center">
-  <a href="https://www.designhubmk.com"><strong>www.designhubmk.com</strong></a> ·
-  <strong>arsim@designhubmk.com</strong> ·
-  <a href="https://github.com/fullstackwithai"><strong>GitHub: fullstackwithai</strong></a>
-</p>
+---
 
-<p align="center">
-  <strong>FullStackWithAI</strong> — building premium dashboards and digital products that turn complexity into clarity.
-</p>
+<div align="center">
+
+## Sales Performance BI Dashboard
+
+**Data to decisions. Revenue to insight. Dashboards to executive clarity.**
+
+Built by **Arsim Shefkiu · DesignHubMK**
+
+</div>
